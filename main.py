@@ -1,5 +1,4 @@
 from flask import Flask, render_template
-from django.shortcuts import render
 import requests
 from bs4 import BeautifulSoup
 
